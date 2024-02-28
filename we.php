@@ -41,7 +41,7 @@
   <div id='lower-side'>
     <p id='message'>
       u r login..<br>
-      when u display..<br>
+      when  display..<br>
       1.Invalid username. Only letters and whitespace are allowed..<br>
       2.Invalid email address<br>
       3.atleast 6 characters in password..then <br>GO TO HOME..<br>CORRECT IT
